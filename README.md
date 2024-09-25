@@ -1,10 +1,10 @@
 # Password Generator Script
 
 This Python script is here to help you create secure and customizable passwords tailored to your needs. It follows the best practices for password security by letting you choose whether to include uppercase letters, special characters, and numbers. Plus, it ensures your password meets certain length requirements, making it strong and reliable.
-
+##
  _._     _,-'""`-._
 (,-.`._,'(       |\`-/|
-    `-.-' \ )-`( , o o)
+    `-.-' \ )-`( , o o)  
           `-    \`_`"'- 
 
 ## Features
